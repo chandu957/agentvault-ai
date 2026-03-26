@@ -1,17 +1,22 @@
-# 🔐 AgentVault AI 🤖
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+
+
+# AgentVault AI 🤖
 
 Secure agentic AI application using Auth0 Token Vault.
 
 ---
 
-## 🚀 Overview
+##  Overview
 AgentVault AI is a secure AI agent system that integrates Auth0 authentication and Token Vault to safely manage access tokens.
 
 It enables AI agents to interact with APIs without exposing sensitive credentials.
 
 ---
 
-## ✨ Features
+##  Features
 - 🔐 Secure authentication with Auth0
 - 🗄️ Token Vault for safe token storage
 - 🤖 AI agents with controlled API access
@@ -20,12 +25,12 @@ It enables AI agents to interact with APIs without exposing sensitive credential
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 User → Frontend → Backend → Auth0 → Token Vault → APIs
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - JavaScript / Python
 - Node.js
 - React
@@ -35,7 +40,7 @@ User → Frontend → Backend → Auth0 → Token Vault → APIs
 
 ---
 
-## ⚙️ How it works
+##  How it works
 1. User logs in via Auth0  
 2. Token is generated  
 3. Stored securely in Token Vault  
@@ -44,22 +49,26 @@ User → Frontend → Backend → Auth0 → Token Vault → APIs
 
 ---
 
-## 📷 Demo
+##  Demo
 Coming soon
 
 ---
 
-## 💻 GitHub
+##  GitHub
 https://github.com/chandu957/agentvault-ai
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 - Multi-agent system  
 - Better UI  
 - More API integrations  
 
 ---
 
-## 📄 License
+##  License
 MIT
+##  Auth0 Integration
+- Secure login using Auth0
+- Token Vault for storing tokens
+- OAuth 2.0 authentication flow
